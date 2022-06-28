@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Hello and welcome eveyone coming to my page
 
-You can use the [editor on GitHub](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is my blog where I can upload my favourite works. This can help me to track my passon. You also visit my [git repository](https://github.com/binhhoangtieu) to know what I am doing 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,12 +28,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details see 
 
-### Jekyll Themes
+### Useful link:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/binhhoangtieu/binhhoangtieu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
+2. [repository settings](https://github.com/binhhoangtieu/binhhoangtieu.github.io/settings/pages).
+3. [Writing Git pages](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Contact
+[binhhoangtieu@yahoo.com](mailto: binhhoangtieu@yahoo.com)
