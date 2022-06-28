@@ -28,8 +28,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see 
-
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
