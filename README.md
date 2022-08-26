@@ -14,6 +14,14 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * [4] Binh, H. T., Trung, N. Q., Hoang-Anh, N.T, & Duy, B. T. (2019). Detecting student engagement in classrooms for intelligent tutoring systems. In The 23th International Computer Science and Engineering Conference (ICSEC2019). DOI: [10.1109/ICSEC47112.2019.8974739](https://ieeexplore.ieee.org/document/8974739)
 * [5] Q. T. Nguyen, H. Tieu Binh, T. D. Bui and P. D. N.T. (2019), Student postures and gestures recognition system for adaptive learning improvement. 2019 6th NAFOSTED Conference on Information and Computer Science (NICS), Hanoi, Vietnam, 2019, pp. 494-499. DOI: [10.1109/NICS48868.2019.9023896](http://dx.doi.org/10.1109/NICS48868.2019.9023896)
 
+### INTERESTED WORK
+* Web programing: focus on .Net Core, MVC, Blazor, API, Drupal
+* BigData: Educational Data Mining, Data Analytics
+* Machine learning: Human Action recognition, Computer Vision
+* Social Statistics: AHP, CFA, EFA
+* Windows platform: Visual Foxpro, MS Access, Visual Basic .Net
+* Linux: MySQL, Python
+* Coding: Microsoft Visual Studio (C#, VB.Net), Python, R
 
 ### Useful link:
 
