@@ -22,7 +22,8 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * Windows platform: Visual Foxpro, MS Access, Visual Basic .Net
 * Linux: MySQL, Python
 * Coding: Microsoft Visual Studio (C#, VB.Net), Python, R
-
+### TEACHING
+* C Programming
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
