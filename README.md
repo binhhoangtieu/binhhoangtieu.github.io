@@ -24,6 +24,8 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * Coding: Microsoft Visual Studio (C#, VB.Net), Python, R
 ### TEACHING
 * C Programming
+* Advanced programming (Python)
+* Artificial Intelligence
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
