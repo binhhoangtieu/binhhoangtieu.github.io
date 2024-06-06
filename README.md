@@ -16,17 +16,18 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * [6] Tran Hai Long, Hoang Tieu Binh (2022), Nghiên cứu các phương pháp khai phá dữ liệu giáo dục để dự đoán kết quả học tập của sinh viên, Hội thảo Quốc gia lần thứ XXV VNICT 2022
 
 ### INTERESTED WORK
-* Web programing: focus on .Net Core, MVC, Blazor, API, Drupal
+* Web programing: focus on .Net Core, MVC, Blazor, API
 * BigData: Educational Data Mining, Data Analytics
-* Machine learning: Human Action recognition, Computer Vision
+* Machine learning: Human Action Recognition, Computer Vision, NLP
 * Social Statistics: AHP, CFA, EFA
 * Windows platform: Visual Foxpro, MS Access, Visual Basic .Net
 * Linux: MySQL, Python
-* Coding: Microsoft Visual Studio (C#, VB.Net), Python, R
+* Coding: Microsoft .Net (C#, VB.Net), Python, R
 ### TEACHING
 * C Programming
 * Advanced programming (Python)
 * Artificial Intelligence
+* Machine Learning and Data Mining
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
