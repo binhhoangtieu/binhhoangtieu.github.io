@@ -1,6 +1,6 @@
 ## Hello and welcome to my page
 
-I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engineering and Technology, Ha Noi National University. My favorite fields are computer vision, educational data mining. Expecially I am interested in applying psychology models in education with the aim of information technology and machine learning techniques. 
+I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engineering and Technology, Ha Noi National University. My favorite fields are computer vision, educational data mining and artificial intelligent. Expecially I am interested in applying psychology models in education with the aim of information technology and machine learning techniques. 
 
 ### PUBLICATIONS / BOOKS
 
@@ -39,3 +39,5 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 5. [My google scholar](https://scholar.google.com.vn/citations?user=4sSEfNcAAAAJ)
 ### Contact
 [binhhoangtieu@yahoo.com](mailto: binhhoangtieu@yahoo.com)
+[binhhoangtieu@gmail.com](mailto: binhhoangtieu@gmail.com)
+[htbinh@cmcu.edu.vn](mailto: htbinh@cmcu.edu.vn)
