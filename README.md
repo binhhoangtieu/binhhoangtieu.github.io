@@ -4,7 +4,7 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 
 ### PUBLICATIONS / BOOKS
 
-* 2021, Hoang Tieu Binh, Nguyen Quang Trung, Bui The Duy, Responsive student model in an intelligent tutoring system and its evaluation, Education and Information Technologies (ISI/Q1), Issue 2, March 2021. doi: [10.1007/s10639-021-10485-4](http://dx.doi.org/10.1007/s10639-021-10485-4), (ISI/Q1, IF=5.5)
+* 2021, Hoang Tieu Binh, Nguyen Quang Trung, Bui The Duy, Responsive student model in an intelligent tutoring system and its evaluation, Education and Information Technologies, Issue 2, March 2021. doi: [10.1007/s10639-021-10485-4](http://dx.doi.org/10.1007/s10639-021-10485-4), (ISI/Q1)
 * 2019, Hoàng Tiểu Bình, Ma Thị Châu, Ngô Thị Duyên, Lê Thanh Hà, Đinh Quang Trung, Xây dựng học liệu điện tử hỗ trợ giảng dạy kịch hát dân tộc dựa trên công nghệ 3D và thực tại ảo, HNUE Journal of Science, 4/2019, 40-50. DOI [10.18173/2354-1075.2019-0049](http://stdb.hnue.edu.vn/portal/journals.php?articleid=5746)
 * 2019, Nguyễn Quang Trung, Hoàng Tiểu Bình, Nguyễn Thị Phương Dung, Phạm Văn Thanh, Đặng Vũ Tùng, Giáo trình tin học đại cương, NXB Đại học Quốc Gia Hà Nội, 2021,
 ### WORKSHOP PAPERS
