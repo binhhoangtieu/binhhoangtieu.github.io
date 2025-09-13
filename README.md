@@ -31,7 +31,8 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * Artificial Intelligence
 * Machine Learning and Data Mining
 ### AWARD
-* NII Japan scholarship (2018) - [Sugimoto Lab](http://www.dgcv.nii.ac.jp)
+* CSHE Unimelb Scholarship (Australia 2011) [Centre for the Study of Higher Education](https://melbourne-cshe.unimelb.edu.au/)
+* NII Scholarship (Japan 2018) - [Sugimoto Lab](http://www.dgcv.nii.ac.jp)
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
