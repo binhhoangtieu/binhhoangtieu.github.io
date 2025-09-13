@@ -30,6 +30,8 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * Advanced programming (Python)
 * Artificial Intelligence
 * Machine Learning and Data Mining
+### AWARD
+* NII Japan scholarship (2018) - [Sugimoto Lab](http://www.dgcv.nii.ac.jp)
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
