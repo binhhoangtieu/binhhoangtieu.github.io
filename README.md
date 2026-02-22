@@ -16,7 +16,7 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * [6] Tran Hai Long, Hoang Tieu Binh (2022), Nghiên cứu các phương pháp khai phá dữ liệu giáo dục để dự đoán kết quả học tập của sinh viên, Hội thảo Quốc gia lần thứ XXV VNICT 2022
 * [7] Tran Hai, L., Hoang Tieu, B., Nguyen Vinh, Q. (2025). Predicting the Employment Rate of Students After Graduation Using Machine Learning Methods. In: Meesad, P., Sodsee, S., Jitsakul, W., Tangwannawit, S. (eds) Proceedings of the 21st International Conference on Computing and Information Technology (IC2IT 2025). IC2IT 2025. Lecture Notes in Networks and Systems, vol 1390. Springer, Cham. DOI:  [10.1007/978-3-031-90295-6_1](https://doi.org/10.1007/978-3-031-90295-6_1)
 * [8] Van, U.T., Tieu, B.H., Tran, D.H. (2025). A Student Performance Prediction Model Using Machine Learning Models in Multimodal Learning Analytics. In: Meesad, P., Sodsee, S., Jitsakul, W., Tangwannawit, S. (eds) Proceedings of the 21st International Conference on Computing and Information Technology (IC2IT 2025). IC2IT 2025. Lecture Notes in Networks and Systems, vol 1390. Springer, Cham. DOI: [10.1007/978-3-031-90295-6_2](https://doi.org/10.1007/978-3-031-90295-6_2)
-
+* [9] Van, U.T., Tieu, B.H. & Tran, D.H. A multimodal learning analytics model based on deep learning for predicting student performance using tabular and time-series data fusion. _Discover Artificial Intelligence_ (2026). https://doi.org/10.1007/s44163-026-00990-1
 ### INTERESTED WORK
 * Web programing: focus on .Net Core, MVC, Blazor, API
 * BigData: Educational Data Mining, Data Analytics
