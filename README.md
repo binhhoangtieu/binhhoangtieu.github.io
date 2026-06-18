@@ -40,10 +40,9 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
 2. [repository settings](https://github.com/binhhoangtieu/binhhoangtieu.github.io/settings/pages).
-3. [Writing Git pages](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-4. [RFID-Phương thức liên lạc mới trong thế giới di động-2016](rfid.md)
-5. [My google scholar](https://scholar.google.com.vn/citations?user=4sSEfNcAAAAJ)
-6. [My ORCID: 0000-0003-2951-1245](https://orcid.org/0000-0003-2951-1245)
+3. [RFID-Phương thức liên lạc mới trong thế giới di động-2016](rfid.md)
+4. [My google scholar](https://scholar.google.com.vn/citations?user=4sSEfNcAAAAJ)
+5. [My ORCID: 0000-0003-2951-1245](https://orcid.org/0000-0003-2951-1245)
 ### Contact
 [binhhoangtieu@yahoo.com](mailto: binhhoangtieu@yahoo.com)
 [binhhoangtieu@gmail.com](mailto: binhhoangtieu@gmail.com)
