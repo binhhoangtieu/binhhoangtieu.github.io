@@ -7,6 +7,7 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * 2019, Nguyễn Quang Trung, Hoàng Tiểu Bình, Nguyễn Thị Phương Dung, Phạm Văn Thanh, Đặng Vũ Tùng, Giáo trình tin học đại cương, NXB Đại học Quốc Gia Hà Nội, 2021,
 * 2021, Hoang Tieu Binh, Nguyen Quang Trung, Bui The Duy, Responsive student model in an intelligent tutoring system and its evaluation, Education and Information Technologies, Issue 2, March 2021. doi: [10.1007/s10639-021-10485-4](http://dx.doi.org/10.1007/s10639-021-10485-4), (Q1)
 * 2026 Van, U.T., Tieu, B.H. & Tran, D.H. A multimodal learning analytics model based on deep learning for predicting student performance using tabular and time-series data fusion. _Discover Artificial Intelligence_ (2026). doi: [10.1007/s44163-026-00990-1](https://doi.org/10.1007/s44163-026-00990-1) (Q1)
+* 2026 Luyen, N.T, Binh, H.T. Synergistic multi-stage processing for enhanced context relevance in RAG architecture, _Discover Computing_ (2026). DOI: [10.1007/s10791-026-10319-2] (Q2). Accepted.
 
 ### WORKSHOP PAPERS
 * [1] Binh, H. T., & Duy, B. T. (2016). Student ability estimation based on IRT. In NICS 2016 - Proceedings of 2016 3rd National Foundation for Science and Technology Development Conference on Information and Computer Science (pp. 56–61). DOI: [10.1109/NICS.2016.7725667](https://ieeexplore.ieee.org/document/7725667)
@@ -39,10 +40,9 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 ### Useful link:
 
 1. [Edit my page](https://github.com/binhhoangtieu/binhhoangtieu.github.io/edit/main/README.md)
-2. [repository settings](https://github.com/binhhoangtieu/binhhoangtieu.github.io/settings/pages).
-3. [RFID-Phương thức liên lạc mới trong thế giới di động-2016](rfid.md)
-4. [My google scholar](https://scholar.google.com.vn/citations?user=4sSEfNcAAAAJ)
-5. [My ORCID: 0000-0003-2951-1245](https://orcid.org/0000-0003-2951-1245)
+2. [RFID-Phương thức liên lạc mới trong thế giới di động-2016](rfid.md)
+3. [My google scholar](https://scholar.google.com.vn/citations?user=4sSEfNcAAAAJ)
+4. [My ORCID: 0000-0003-2951-1245](https://orcid.org/0000-0003-2951-1245)
 ### Contact
 [binhhoangtieu@yahoo.com](mailto: binhhoangtieu@yahoo.com)
 [binhhoangtieu@gmail.com](mailto: binhhoangtieu@gmail.com)
