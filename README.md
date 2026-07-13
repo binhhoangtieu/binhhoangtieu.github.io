@@ -7,7 +7,7 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * 2019, Nguyễn Quang Trung, Hoàng Tiểu Bình, Nguyễn Thị Phương Dung, Phạm Văn Thanh, Đặng Vũ Tùng, Giáo trình tin học đại cương, NXB Đại học Quốc Gia Hà Nội, 2021,
 * 2021, Hoang Tieu Binh, Nguyen Quang Trung, Bui The Duy, Responsive student model in an intelligent tutoring system and its evaluation, Education and Information Technologies, Issue 2, March 2021. doi: [10.1007/s10639-021-10485-4](http://dx.doi.org/10.1007/s10639-021-10485-4), (Q1)
 * 2026 Van, U.T., Tieu, B.H. & Tran, D.H. A multimodal learning analytics model based on deep learning for predicting student performance using tabular and time-series data fusion. _Discover Artificial Intelligence_ (2026). doi: [10.1007/s44163-026-00990-1](https://doi.org/10.1007/s44163-026-00990-1) (Q1)
-* 2026 Luyen, N.T, Binh, H.T. Synergistic multi-stage processing for enhanced context relevance in RAG architecture, _Discover Computing_ (2026). DOI: [10.1007/s10791-026-10319-2] (Q2). Accepted.
+* Tien, L.N., Tieu, B.H. Synergistic multi-stage processing for enhanced context relevance in RAG architecture. Discov Computing 29, 436 (2026). DOI: [10.1007/s10791-026-10319-2](https://link.springer.com/article/10.1007/s10791-026-10319-2) (Q2/WoS).
 
 ### WORKSHOP PAPERS
 * [1] Binh, H. T., & Duy, B. T. (2016). Student ability estimation based on IRT. In NICS 2016 - Proceedings of 2016 3rd National Foundation for Science and Technology Development Conference on Information and Computer Science (pp. 56–61). DOI: [10.1109/NICS.2016.7725667](https://ieeexplore.ieee.org/document/7725667)
