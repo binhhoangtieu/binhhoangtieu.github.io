@@ -24,11 +24,11 @@ I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engin
 * [12] Linh Van Phung, Nam Ngoc Nguyen, Luyen Nguyen Tien and Binh Tieu Hoang. A Real-Time Teacher-Student Interaction Index for Spatial Classroom Analytics. In The Second International Conference on Explainable Intelligence in Digital Twins 2026. (EIDT'26, Springer). Hanoi, Vietnam, Accepted.
 
 ### INTERESTED WORK
-* Web programing: focus on .Net Core, MVC, Blazor, API
+* Web programing: focus on .Net Core, MVC, Blazor, Nodejs, Express, Nestjs
 * BigData: Educational Data Mining, Data Analytics
 * Machine learning: Human Action Recognition, Computer Vision, NLP
 * Social Statistics: AHP, CFA, EFA
-* Windows platform: Visual Foxpro, MS Access, Visual Basic .Net
+* Windows platform: Visual Foxpro, MS Access, Visual Basic .Net, C#
 * Linux: MySQL, Python
 * Coding: Microsoft .Net (C#, VB.Net), Python, R
 ### TEACHING
