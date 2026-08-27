@@ -1,6 +1,9 @@
 ## Hello and welcome to my page
 
-I am Hoang Tieu Binh, Phd in Computer Science. I graduated from College of Engineering and Technology, Ha Noi National University. My favorite fields are computer vision, educational data mining and artificial intelligent. Expecially I am interested in applying psychology models in education with the aim of information technology and machine learning techniques. 
+Binh Hoang Tieu (PhD) received the bachelor's degree in Information Technology from Hanoi National University, Vietnam, and the Ph.D. degree in Computer Science from the College of Engineering and Technology, Vietnam National University, Hanoi. He is currently a lecturer and researcher in the field of computer science and information technology. His research focuses on artificial intelligence, machine learning, computer vision, educational data mining, learning analytics, natural language processing, and intelligent tutoring systems.
+Affiliation: Faculty of Information and Communication Technology, Digital University Division, CMC University
+Email: htbinh@cmcu.edu.vn | binhhoangtieu@gmail.com
+ORCID: 0000-0003-2951-1245
 
 ### PUBLICATIONS / BOOKS
 * 2019, Hoàng Tiểu Bình, Ma Thị Châu, Ngô Thị Duyên, Lê Thanh Hà, Đinh Quang Trung, Xây dựng học liệu điện tử hỗ trợ giảng dạy kịch hát dân tộc dựa trên công nghệ 3D và thực tại ảo, HNUE Journal of Science, 4/2019, 40-50. DOI [10.18173/2354-1075.2019-0049](http://stdb.hnue.edu.vn/portal/journals.php?articleid=5746)
