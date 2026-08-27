@@ -32,7 +32,7 @@ ORCID: 0000-0003-2951-1245
 * Machine learning: Human Action Recognition, Computer Vision, NLP
 * Social Statistics: AHP, CFA, EFA
 * Windows platform: Visual Foxpro, MS Access, Visual Basic .Net, C#
-* Linux: MySQL, Python
+* DBMD: SQL Server, MySQL, PostgreSQL, MongoDB
 * Coding: Microsoft .Net (C#, VB.Net), Python, R
 ### TEACHING
 * C Programming
